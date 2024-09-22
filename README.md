@@ -1,4 +1,4 @@
-# Tracking-system
+# Target detection
 
 The target detection algorithm is developped for use on a raspberry pi as the form factor of the computer is perfect to place in a remote controlled plane as it is as light as it is small but still packs a lot of computing power which is perfect to run the algorithm efficiently.
 
